@@ -1,0 +1,37 @@
+/*styleClasses.css*/
+/* Programmé par Fanie Grégoire */
+/* Le 14 mars 2019 */
+
+
+
+p
+{
+    font-size: 14px;
+    text-align: justify;
+
+
+h1
+{
+    color: deeppink;
+    size: 35px;
+    text-align: center;
+
+}
+
+h2
+{
+    color: dodgerblue;
+    size: 22px;
+    text-align: center;
+}
+
+#chien
+{
+     background-color: deeppink;
+}
+
+.belleImage
+{
+border: 1px solid #ddd;
+border-radius:4px;
+}
