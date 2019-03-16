@@ -9,7 +9,15 @@ body
 @font-face {
     font-family: maPolice;
 
-    src: url(Starjedi.ttf);
+    src: url( Starjedi.ttf );
+
+    src: url(webfont.eot?#iefix) format(embedded-opentype)
+
+    url(webfont.woff) format(woff)
+    url(webfont.ttf) format(truetype)
+    url(webfont.svg#svgFontName) format (svg)
+
+
 }
 
 h1
@@ -17,7 +25,7 @@ h1
     font-size: 140px;
     color: yellow;
     text-align: center;
-    font-family:maPolice;
+    font-family: maPolice;
     margin: .0px;
 }
 
