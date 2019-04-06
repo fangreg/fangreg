@@ -1,0 +1,40 @@
+html, body{
+    margin:0;
+    height: 100%;
+}
+
+
+hr {
+    width: 100px;
+    height: 5px;
+    background-color: white;
+}
+
+h2 {
+    color: grey;
+}
+
+h1 {
+    color: white;
+}
+
+.GrosseImage
+{
+    background-image: url("../img/captainmarvel.jpg");
+    height: 100%;
+
+    /*Background-attachment: fixed;*/
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hauteur100
+{
+height: 100%;
+}
+
+.darkorange
+{
+    background-color: darkorange;
+    height: 100px;
+}
