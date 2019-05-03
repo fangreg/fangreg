@@ -1,0 +1,58 @@
+html, body{
+    margin:0;
+    height: 100%;
+}
+
+
+hr {
+    width: 100px;
+    height: 5px;
+    background-color: white;
+}
+
+h1 {
+    color: white;
+}
+
+.container-fluid {
+    padding:0;
+}
+
+h2 {
+    color: grey;
+    margin-top: 20px;
+}
+
+
+h3 {
+    padding-top: 20px;
+}
+
+p {
+    padding-bottom: 15px;
+}
+
+.GrosseImage
+{
+    background-image: url("../img/captainmarvel.jpg");
+    height: 100%;
+
+    /*Background-attachment: fixed;*/
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hauteur100
+{
+height: 100%;
+}
+
+.darkorange
+{
+    background-color: darkorange;
+}
+
+.boutongris
+{
+    margin-bottom: 20px;
+}

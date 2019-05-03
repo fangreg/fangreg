@@ -1,0 +1,35 @@
+html, body{
+    margin:0;
+    height: 100%;
+}
+
+
+.container-fluid {
+    padding:0;
+}
+
+.parallax {
+    background-image: url("../img/PugSom-3.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.carregris {
+    background-color: rgba (224,217,29,.5);
+}
+
+
+
+.GrosseImage
+{
+    background-image: url("../img/captainmarvel.jpg");
+    height: 100%;
+
+    /*Background-attachment: fixed;*/
+    background-position: center;
+    background-repeat: no-repeat;
+}
