@@ -19,17 +19,20 @@ html, body{
 
 
 .carregris {
-    background-color: rgba (224,217,29,.5);
+    background-color: rgba(255,255,255,.5);
+}
+
+.carrejaune {
+    background-color: rgba(224,217,29,.5);
 }
 
 
-
-.GrosseImage
-{
-    background-image: url("../img/captainmarvel.jpg");
-    height: 100%;
-
-    /*Background-attachment: fixed;*/
+.parallax2 {
+    background-image: url("../img/Pugsom2.jpg");
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
 }
+
+
