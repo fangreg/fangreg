@@ -8,6 +8,10 @@ html, body{
     padding:0;
 }
 
+.grostexteblanc {
+    color: white;
+}
+
 .parallax {
     background-image: url("../img/PugSom-3.jpg");
     background-attachment: fixed;
@@ -16,7 +20,9 @@ html, body{
     background-size: cover;
 }
 
-
+.roundcorners {
+    border-radius: 200px;
+}
 
 .carregris {
     background-color: rgba(255,255,255,.5);
@@ -33,6 +39,54 @@ html, body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 600px;
 }
 
+.parallax3 {
+    background-image: url("../img/PugTrainer.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
 
+.monbouton {
+    background-color: #d0451b;
+    border-radius: 28px;
+    border: 1px solid #942911;
+    cursor: pointer;
+}
+
+p {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.couleurbleu {
+    background-color: #005cbf;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+
+}
+
+.couleurbleupale {
+    background-color: #7abaff;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+
+}
+
+.couleurvert {
+    background-color: #8fd19e;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
