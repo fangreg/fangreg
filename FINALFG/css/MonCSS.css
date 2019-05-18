@@ -1,0 +1,129 @@
+@font-face { maPolice;
+    src: url("Button.ttf");
+}
+
+h1 {
+    font-family: maPolice;
+    font-size: 24px;
+    align-items: center;
+}
+
+header {
+    position: relative;
+    background-color: black;
+    height: 100%;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width:100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+header .container{
+    position: relative;
+    z-index: 2;
+}
+
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+
+
+html, body{
+    margin:0;
+    height: 100%;
+}
+
+
+.container-fluid {
+    padding:0;
+}
+
+.grostexteblanc {
+    color: white;
+}
+
+.roundcorners {
+    border-radius: 200px;
+}
+
+.carregris {
+    background-color: rgba(255,255,255,.5);
+}
+
+.carrejaune {
+    background-color: rgba(224,217,29,.5);
+}
+
+
+.parallax {
+    background-image: url("../img/MorgouneBoite.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.parallax3 {
+    background-image: url("../img/PugTrainer.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.monbouton {
+    background-color: #d0451b;
+    border-radius: 28px;
+    border: 1px solid #942911;
+    cursor: pointer;
+}
+
+p {
+    background-color: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+
+}
+
+.couleurbleu {
+    background-color: #9fcdff;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+
+}
+
+.couleurjaune {
+    background-color: #edeea5;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
