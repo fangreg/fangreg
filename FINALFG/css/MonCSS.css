@@ -8,6 +8,17 @@ h1 {
     align-items: center;
 }
 
+h2 {
+    color: white;
+    border: black;
+}
+
+hr {
+    border-top: 3px dotted black;
+
+}
+
+
 header {
     position: relative;
     background-color: black;
@@ -96,10 +107,13 @@ html, body{
 }
 
 .monbouton {
-    background-color: #d0451b;
+    background-color: #007bff;
     border-radius: 28px;
-    border: 1px solid #942911;
+    border: 2px solid #1e0a2e;
     cursor: pointer;
+    text-align: center;
+
+
 }
 
 p {
@@ -127,3 +141,17 @@ p {
     padding-right: 70px;
 }
 
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.thumbnail {
+    height:250px;
+    width:100%;
+}
