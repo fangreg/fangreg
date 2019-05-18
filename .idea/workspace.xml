@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d49cd3-5d9c-4936-8f69-5e377505d2e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FINALFG/img/maquillage_antoine_dragon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FINALFG/css/MonCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/FINALFG/css/MonCSS.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FINALFG/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FINALFG/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FINALFG/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="929">
-              <caret line="63" column="14" lean-forward="true" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+            <state relative-caret-position="331">
+              <caret line="62" column="58" selection-start-line="62" selection-start-column="58" selection-end-line="62" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -71,8 +68,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="34" />
-    <option name="y" value="57" />
+    <option name="x" value="50" />
+    <option name="y" value="35" />
     <option name="width" value="1176" />
     <option name="height" value="654" />
   </component>
@@ -159,15 +156,15 @@
       <workItem from="1552605469324" duration="6510000" />
       <workItem from="1555627976701" duration="344000" />
       <workItem from="1558050690392" duration="2432000" />
-      <workItem from="1558197730386" duration="12838000" />
+      <workItem from="1558197730386" duration="14096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22601000" />
+    <option name="totallyTimeSpent" value="23859000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="57" width="1176" height="654" extended-state="0" />
+    <frame x="50" y="35" width="1176" height="654" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4911032" visible="true" weight="0.3148148" />
@@ -299,8 +296,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FINALFG/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="929">
-          <caret line="63" column="14" lean-forward="true" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        <state relative-caret-position="331">
+          <caret line="62" column="58" selection-start-line="62" selection-start-column="58" selection-end-line="62" selection-end-column="58" />
         </state>
       </provider>
     </entry>
