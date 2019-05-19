@@ -10,7 +10,7 @@ h1 {
 
 h2 {
     color: white;
-    border: black;
+    text-shadow: -1px 0 black, 0 2px black, 2px 0 black, 0 -1px black;
 }
 
 hr {
@@ -71,20 +71,8 @@ html, body{
     padding:0;
 }
 
-.grostexteblanc {
-    color: white;
-}
-
 .roundcorners {
     border-radius: 200px;
-}
-
-.carregris {
-    background-color: rgba(255,255,255,.5);
-}
-
-.carrejaune {
-    background-color: rgba(224,217,29,.5);
 }
 
 
@@ -97,28 +85,26 @@ html, body{
     height: 600px;
 }
 
-.parallax3 {
-    background-image: url("../img/PugTrainer.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 500px;
-}
 
 .monbouton {
     background-color: #007bff;
     border-radius: 28px;
-    border: 2px solid #1e0a2e;
+    border: 5px solid lightblue;
     cursor: pointer;
     text-align: center;
+    color: white;
+    transition: 0.3s;
+}
 
-
+.monbouton:hover {
+    background-color: lightblue;
+    color: white;
 }
 
 p {
     background-color: rgba(255, 255, 255, 0.5);
     font-size: 20px;
+    border-radius: 10px;
 
 }
 
@@ -141,17 +127,3 @@ p {
     padding-right: 70px;
 }
 
-.text-block {
-    position: absolute;
-    bottom: 20px;
-    right: 50px;
-    background-color: black;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
-.thumbnail {
-    height:250px;
-    width:100%;
-}
