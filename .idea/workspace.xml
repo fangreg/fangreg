@@ -2,7 +2,295 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d49cd3-5d9c-4936-8f69-5e377505d2e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/FINALFG/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FINALFG/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/Button.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/MonCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/img/Fanie-Famille.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/img/Fanie-Fred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/img/Fanie-Podcast.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/img/Fanie-Retro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/img/Fanie_maquille.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/img/GeekettesFBDM2017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/img/GrandePhoto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/img/Mamanetmoi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/img/MorgouneBoite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/img/maquillage_antoine_dragon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/img/pug3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/js/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice2/video/VideoMorgane.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/FORMULAIRE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/FormulaireEnvoye.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/css/MonCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/img/Banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/img/Banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/img/Banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/img/vintagewomencomputer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/js/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/page1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/Exercice3pages/recherche.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/Button.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/MonCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/img/Fanie-Famille.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/img/Fanie-Fred.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/img/Fanie-Podcast.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/img/Fanie-Retro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/img/Fanie_maquille.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/img/GeekettesFBDM2017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/img/GrandePhoto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/img/Ipad-Fond.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/img/Iphone-Fond.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/img/Mamanetmoi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/img/MorgouneBoite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/img/maquillage_antoine_dragon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/js/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/video/VideoMorgane.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persos/podca/ImagesEpisodes/Episode53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persos/podca/ImagesEpisodes/Episode54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persos/podca/images/Banniere_Abonnezvous.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persos/podca/images/EcouteursGeekettes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persos/podca/images/Geekette-Constance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persos/podca/images/Geekette-Geneviève.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persos/podca/images/Geekette-Valmo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persos/podca/images/Geekettes-Fanie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persos/podca/images/Geekettes-Martine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persos/podca/images/GeekettesFBDM2017.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/css/MonCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/css/MonCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/img/BDFleurs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/img/BDFleurs.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/img/captainmarvel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/img/captainmarvel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/img/produits.png" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/img/produits.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootstrapLove/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/js/jquery-3.3.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/css/MonCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/css/MonCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/img/captainmarvel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/img/captainmarvel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/img/produits.png" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/img/produits.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/img/pug1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/img/pug1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/img/pug2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/img/pug2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/img/pug3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/img/pug3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciceCards/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/js/jquery-3.3.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/Button.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/Button.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/MonCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/MonCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/img/Fanie-Famille.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/Fanie-Famille.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/img/Fanie-Fred.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/Fanie-Fred.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/img/Fanie-Podcast.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/Fanie-Podcast.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/img/Fanie-Retro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/Fanie-Retro.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/img/Fanie_maquille.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/Fanie_maquille.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/img/GeekettesFBDM2017.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/GeekettesFBDM2017.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/img/GrandePhoto.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/GrandePhoto.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/img/Mamanetmoi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/Mamanetmoi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/img/MorgouneBoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/MorgouneBoite.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/img/maquillage_antoine_dragon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/img/maquillage_antoine_dragon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/js/jquery-3.3.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINALFG/video/VideoMorgane.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/video/VideoMorgane.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo/.idea/Han Solo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Han Solo/.idea/Han Solo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Han Solo/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Han Solo/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Han Solo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Han Solo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Han Solo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Han Solo/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo/Laboratoire Han Solo.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Han Solo/Laboratoire Han Solo.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo/font/Starjedi.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Han Solo/font/Starjedi.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo/img/Hansolo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Han Solo/img/Hansolo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo/img/chewbacca.png" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Han Solo/img/chewbacca.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo/img/etoileMort.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Han Solo/img/etoileMort.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Han Solo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jemepresente_V1/Css/styleClasses.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Jemepresente_V1/Css/styleClasses.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jemepresente_V1/Img/FanieAvatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Jemepresente_V1/Img/FanieAvatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jemepresente_V1/Img/nuagesbg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Jemepresente_V1/Img/nuagesbg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jemepresente_V1/Img/pug-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Jemepresente_V1/Img/pug-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jemepresente_V1/Img/valentin.png" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Jemepresente_V1/Img/valentin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jemepresente_V1/etudes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Jemepresente_V1/etudes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jemepresente_V1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Jemepresente_V1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jemepresente_V1/loisirs.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Jemepresente_V1/loisirs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jemepresente_V1/onepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Jemepresente_V1/onepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jemepresente_V1/onepageclass.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Jemepresente_V1/onepageclass.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jemepresente_V1/sports.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/Jemepresente_V1/sports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/css/MonCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/MonCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/img/Fanie-Famille.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/img/Fanie-Famille.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/img/Fanie-Fred.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/img/Fanie-Fred.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/img/Fanie-Podcast.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/img/Fanie-Podcast.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/img/Fanie-Retro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/img/Fanie-Retro.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/img/Fanie_maquille.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/img/Fanie_maquille.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/img/GeekettesFBDM2017.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/img/GeekettesFBDM2017.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/img/GrandePhoto.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/img/GrandePhoto.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/img/Mamanetmoi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/img/Mamanetmoi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/img/MorgouneBoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/img/MorgouneBoite.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/ExerciceCards/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetFinalFanie/video/VideoMorgane.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/FINALFG/video/VideoMorgane.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/css/MonCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/css/MonCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/img/PugSom-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/img/PugSom-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/img/PugSom-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/img/PugSom-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/img/PugSom1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/img/PugSom1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/img/PugTrainer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/img/PugTrainer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/img/Pugsom2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/img/Pugsom2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/SommatifPug/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SommatifPug/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration1/BootstrapLove/js/jquery-3.3.1.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,21 +301,39 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FINALFG/css/MonCSS.css">
+        <entry file="file://$PROJECT_DIR$/Persos/podca/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+            <state relative-caret-position="290">
+              <caret line="539" column="56" selection-start-line="539" selection-start-column="56" selection-end-line="539" selection-end-column="56" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#audio#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#audio#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#audio#0;n#div#1;n#div#1;n#div#4;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FINALFG/index.html">
+        <entry file="file://$PROJECT_DIR$/Persos/podca/single-post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+            <state relative-caret-position="689">
+              <caret line="139" column="32" selection-start-line="139" selection-start-column="32" selection-end-line="139" selection-end-column="32" />
+              <folding>
+                <element signature="e#5099#5104#0" expanded="true" />
+                <element signature="e#5497#5502#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Persos/podca/css/style.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -45,6 +351,25 @@
       <find>h1</find>
       <find>etsy</find>
       <find>hr</find>
+      <find>twitter</find>
+      <find>cover</find>
+      <find>site-block</find>
+      <find>inner</find>
+      <find>inner-page-co</find>
+      <find>inner-page</find>
+      <find>btn</find>
+      <find>text</find>
+      <find>font-weight</find>
+      <find>subscribe</find>
+      <find>small</find>
+      <find>fanie</find>
+      <find>balado</find>
+      <find>overlay</find>
+      <find>animatrice</find>
+      <find>div</find>
+      <find>team</find>
+      <find>guest</find>
+      <find>video</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -63,6 +388,22 @@
         <option value="$PROJECT_DIR$/ProjetFinalFanie/css/MonCSS.css" />
         <option value="$PROJECT_DIR$/FINALFG/css/MonCSS.css" />
         <option value="$PROJECT_DIR$/FINALFG/index.html" />
+        <option value="$PROJECT_DIR$/Exercice2/css/MonCSS.css" />
+        <option value="$PROJECT_DIR$/Exercice2/index.html" />
+        <option value="$PROJECT_DIR$/Exercice3pages/css/MonCSS.css" />
+        <option value="$PROJECT_DIR$/Exercice3pages/page1.html" />
+        <option value="$PROJECT_DIR$/Exercice3pages/page2.html" />
+        <option value="$PROJECT_DIR$/Exercice3pages/index.html" />
+        <option value="$PROJECT_DIR$/Exercice3pages/FormulaireEnvoye.html" />
+        <option value="$PROJECT_DIR$/Exercice3pages/FORMULAIRE.html" />
+        <option value="$PROJECT_DIR$/Intégration1/FINALFG/index.html" />
+        <option value="$PROJECT_DIR$/FINALFG-EXERCICE/css/MonCSS.css" />
+        <option value="$PROJECT_DIR$/Intégration2/ModernBusiness/vendor/header.php" />
+        <option value="$PROJECT_DIR$/Intégration2/ModernBusiness/index.html" />
+        <option value="$PROJECT_DIR$/Intégration2/ModernBusiness/header.php" />
+        <option value="$PROJECT_DIR$/Persos/podca/css/style.css" />
+        <option value="$PROJECT_DIR$/Persos/podca/index.html" />
+        <option value="$PROJECT_DIR$/Persos/podca/single-post.html" />
       </list>
     </option>
   </component>
@@ -70,10 +411,10 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="81" />
-    <option name="y" value="35" />
-    <option name="width" value="1176" />
-    <option name="height" value="654" />
+    <option name="x" value="1380" />
+    <option name="y" value="54" />
+    <option name="width" value="1441" />
+    <option name="height" value="875" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
@@ -90,7 +431,37 @@
             <path>
               <item name="fangreg" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Intégration1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="fangreg" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Intégration1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="ExerciceCards" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="fangreg" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Intégration1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="FINALFG" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="fangreg" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Persos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="fangreg" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Persos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="podca" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="fangreg" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Persos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="podca" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ImagesEpisodes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -118,18 +489,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/FINALFG/css" />
-      <recent name="$PROJECT_DIR$/ProjetFinalFanie/video" />
-      <recent name="$PROJECT_DIR$/ProjetFinalFanie/img" />
-      <recent name="$PROJECT_DIR$/Jemepresente_V1/Img" />
-      <recent name="$PROJECT_DIR$/Jemepresente_V1/Css" />
+      <recent name="$PROJECT_DIR$/Persos/podca/images" />
+      <recent name="$PROJECT_DIR$/Persos" />
+      <recent name="$PROJECT_DIR$/Intégration2/ModernBusiness" />
+      <recent name="$PROJECT_DIR$/Intégration2/ModernBusiness/vendor/bootstrap" />
+      <recent name="$PROJECT_DIR$/Intégration2/ModernBusiness/vendor" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/FINALFG/img" />
-      <recent name="$PROJECT_DIR$/FINALFG/css" />
-      <recent name="$PROJECT_DIR$/FINALFG" />
+      <recent name="$PROJECT_DIR$/Persos/podca/images" />
+      <recent name="$PROJECT_DIR$/Persos/podca/ImagesEpisodes" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/ProjetFinalFanie/img" />
+      <recent name="$PROJECT_DIR$/Exercice3pages" />
+      <recent name="$PROJECT_DIR$/Exercice3pages/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -160,22 +531,32 @@
       <workItem from="1558050690392" duration="2432000" />
       <workItem from="1558197730386" duration="14123000" />
       <workItem from="1558216089349" duration="1124000" />
-      <workItem from="1558269657999" duration="4263000" />
+      <workItem from="1558269657999" duration="4371000" />
+      <workItem from="1558481622589" duration="3309000" />
+      <workItem from="1558701600873" duration="324000" />
+      <workItem from="1558791781912" duration="4121000" />
+      <workItem from="1559083734227" duration="2926000" />
+      <workItem from="1559689554723" duration="5629000" />
+      <workItem from="1560292581362" duration="5653000" />
+      <workItem from="1560899529660" duration="2845000" />
+      <workItem from="1560910156556" duration="175000" />
+      <workItem from="1561086012928" duration="1451000" />
+      <workItem from="1561123110714" duration="6702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29273000" />
+    <option name="totallyTimeSpent" value="62516000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="35" width="1176" height="654" extended-state="0" />
+    <frame x="1380" y="54" width="1441" height="875" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48754448" visible="true" weight="0.12698413" />
-      <window_info id="Structure" order="1" sideWeight="0.5124555" side_tool="true" visible="true" weight="0.12698413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.43422732" visible="true" weight="0.17583989" />
+      <window_info id="Structure" order="1" sideWeight="0.56577265" side_tool="true" visible="true" weight="0.17583989" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32881355" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -197,116 +578,265 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Jemepresente_V1/Img/valentin.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jemepresente_V1/sports.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jemepresente_V1/index.html">
+    <entry file="file://$PROJECT_DIR$/Intégration1/Jemepresente_V1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jemepresente_V1/Css/styleClasses.css">
+    <entry file="file://$PROJECT_DIR$/Intégration1/Jemepresente_V1/Css/styleClasses.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jemepresente_V1/etudes.html">
+    <entry file="file://$PROJECT_DIR$/Intégration1/Jemepresente_V1/etudes.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jemepresente_V1/loisirs.html">
+    <entry file="file://$PROJECT_DIR$/Intégration1/Jemepresente_V1/loisirs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jemepresente_V1/onepage.html">
+    <entry file="file://$PROJECT_DIR$/Intégration1/Jemepresente_V1/onepage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jemepresente_V1/onepageclass.html">
+    <entry file="file://$PROJECT_DIR$/Intégration1/Jemepresente_V1/onepageclass.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetFinalFanie/img/GeekettesFBDM2017.jpg">
+    <entry file="file://$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/GeekettesFBDM2017.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetFinalFanie/img/GrandePhoto.jpg">
+    <entry file="file://$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/GrandePhoto.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetFinalFanie/img/Mamanetmoi.jpg">
+    <entry file="file://$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/Mamanetmoi.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SommatifPug/index.html">
+    <entry file="file://$PROJECT_DIR$/Intégration1/SommatifPug/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-207">
           <caret line="61" column="40" lean-forward="true" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SommatifPug/css/MonCSS.css">
+    <entry file="file://$PROJECT_DIR$/Intégration1/SommatifPug/css/MonCSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="438">
           <caret line="68" column="25" lean-forward="true" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FINALFG/js/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/Intégration1/FINALFG/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetFinalFanie/css/MonCSS.css">
+    <entry file="file://$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/MonCSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetFinalFanie/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="85" selection-start-line="13" selection-end-line="85" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FINALFG/css/ButtonFont.ttf" />
-    <entry file="file://$PROJECT_DIR$/BootstrapLove/index.html">
+    <entry file="file://$PROJECT_DIR$/Intégration2/Exercice2/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+        <state relative-caret-position="105">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FINALFG/css/MonCSS.css">
+    <entry file="file://$PROJECT_DIR$/Intégration2/Exercice2/img/pug3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration2/Exercice2/css/MonCSS.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="4050">
+          <caret line="270" column="1" selection-start-line="270" selection-start-column="1" selection-end-line="270" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciceCards/index.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration2/Exercice3pages/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration1/ExerciceCards/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="23" column="82" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FINALFG/index.html">
+    <entry file="file://$PROJECT_DIR$/Intégration2/Exercice2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+        <state relative-caret-position="495">
+          <caret line="33" column="102" selection-start-line="33" selection-start-column="102" selection-end-line="33" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration2/Exercice3pages/page2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration2/Exercice3pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration2/Exercice3pages/page1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration2/Exercice3pages/css/MonCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration2/Exercice3pages/recherche.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration2/Exercice3pages/FormulaireEnvoye.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="49" column="14" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetFinalFanie/js/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/Intégration2/Exercice3pages/FORMULAIRE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="65" column="313" selection-start-line="65" selection-start-column="313" selection-end-line="65" selection-end-column="313" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetFinalFanie/index.html" />
+    <entry file="file://$PROJECT_DIR$/Intégration1/ProjetFinalFanie/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="58" column="62" lean-forward="true" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/img/Iphone-Fond.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration2/FINALFG-EXERCICE/css/MonCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="136" column="4" selection-start-line="136" selection-start-column="4" selection-end-line="136" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration2/EntrepriseModerne/blog-home-1.html" />
+    <entry file="file://$PROJECT_DIR$/Intégration2/EntrepriseModerne/header.php" />
+    <entry file="file://$PROJECT_DIR$/Intégration2/EntrepriseModerne/index.html" />
+    <entry file="file://$PROJECT_DIR$/Persos/podca/images/img_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persos/podca/images/hero_bg_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persos/podca/images/hero_bg_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Geekettes/Geekettes Bundle/_LOGO/Logo_RGB.psd">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persos/podca/images/hero_bg_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persos/podca/images/img_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persos/podca/images/img_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persos/podca/images/Banniere01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration1/BootstrapLove/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration1/FINALFG/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="69" selection-start-line="69" selection-end-line="78" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration1/FINALFG/css/MonCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persos/podca/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persos/podca/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="539" column="56" selection-start-line="539" selection-start-column="56" selection-end-line="539" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#audio#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#audio#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#audio#0;n#div#1;n#div#1;n#div#4;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persos/podca/single-post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="139" column="32" selection-start-line="139" selection-start-column="32" selection-end-line="139" selection-end-column="32" />
+          <folding>
+            <element signature="e#5099#5104#0" expanded="true" />
+            <element signature="e#5497#5502#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
