@@ -1,0 +1,29 @@
+/*
+     Theme Name:   Maxwell Child
+     Description:  Maxwell Child Theme
+     Template:     maxwell
+*/
+
+
+.site-tile {
+    background-image: url("http://d11iwc.expertiseweb.ca/tp2/wp-content/uploads/2019/07/Cégep_Trois-Rivières_Logo.jpg");
+    position: relative;
+}
+
+.widget-title {
+    color: #CF262C;
+}
+
+.entry-title {
+    color: #CF262C;
+    font-family: Arial;
+}
+
+.hfeed.site {
+    background-color: #BADA55;
+    position: relative;
+}
+
+.more-link {
+    background-color: #132257
+}

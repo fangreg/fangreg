@@ -1,0 +1,121 @@
+html, body {
+    margin:0;
+    height:100%
+}
+
+.Spiderman
+{
+    background-image: url("../img/Spiderman.jpg");
+    height: 100%;
+    width: 100%;
+    /*Background-attachment: fixed;*/
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.parallax {
+    background-image: url("../img/Contactezmoi.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.parallax2 {
+    background-image: url("../img/melon.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+
+@media only screen and (max-width: 575px) {
+    .Spiderman
+    {
+        background-image: url("../img/SpidermanXS.jpg");
+        height: 540px;
+        width: 540px;
+        /*Background-attachment: fixed;*/
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 1199px) {
+    .Spiderman
+    {
+        background-image: url("../img/SpidermanMD.jpg");
+        height: 768px;
+        width: 720px;
+        /*Background-attachment: fixed;*/
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
+
+.hw100
+{
+    height: 100%;
+    width: 100%;
+}
+
+
+.couleurbleu {
+    background-color: #9fcdff;
+}
+
+@font-face {
+    font-family: maPolice;
+    src: url("historea demo.ttf");
+}
+
+@font-face {
+    font-family: Police2;
+    src: url("Champigna-SemiBold.ttf");
+}
+
+h1 {
+    font-family: maPolice;
+    font-size: 80px;
+    outline-width: 2px;
+}
+
+h2 {
+    font-family: Police2;
+    font-size: 100px
+    outline-width: 2px
+}
+
+p {
+    color: hotpink;
+    font-weight: bold;
+    font-family: Helvetica;
+    font-size: 20px;
+    alignment: center;
+}
+
+a {
+    color: hotpink;
+}
+
+a:hover {
+    color:deeppink;
+}
+
+.fondpiscine {
+   background-image: url("../img/water-pool-texture-seamless-and-free.jpg");
+    background-repeat: repeat;
+}
+
+.textebas {
+    color: floralwhite;
+    font-size: 20px;
+
+}
+
+
+
+
