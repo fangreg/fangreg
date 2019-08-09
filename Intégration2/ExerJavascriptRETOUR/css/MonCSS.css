@@ -1,0 +1,271 @@
+@font-face { maPolice;
+    src: url("Button.ttf");
+}
+
+h1 {
+    font-family: maPolice;
+    font-size: 24px;
+    align-items: center;
+}
+
+h2 {
+    color: white;
+    text-shadow: -1px 0 black, 0 2px black, 2px 0 black, 0 -1px black;
+}
+
+hr {
+    border-top: 3px dotted black;
+
+}
+
+
+header {
+    position: relative;
+    background-color: black;
+    height: 100%;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width:100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+header .container{
+    position: relative;
+    z-index: 2;
+}
+
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+
+
+html, body{
+    margin:0;
+    height: 100%;
+}
+
+
+.container-fluid {
+    padding:0;
+}
+
+.roundcorners {
+    border-radius: 200px;
+}
+
+
+.parallax {
+    background-image: url("../img/MorgouneBoite.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+
+.monbouton {
+    background-color: #007bff;
+    border-radius: 28px;
+    border: 5px solid lightblue;
+    cursor: pointer;
+    text-align: center;
+    color: white;
+    transition: 0.3s;
+}
+
+.monbouton:hover {
+    background-color: lightblue;
+    color: white;
+}
+
+p {
+    background-color: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+
+.couleurbleu {
+    background-color: #9fcdff;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+
+}
+
+.couleurjaune {
+    background-color: #edeea5;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.navbar {
+    background-color: #088080;
+}
+.navbar .navbar-brand {
+    color: #f8f9ab;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: #3c09e1;
+}
+.navbar .navbar-text {
+    color: #f8f9ab;
+}
+.navbar .navbar-text a {
+    color: #3c09e1;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+    color: #3c09e1;
+}
+.navbar .navbar-nav .nav-link {
+    color: #f8f9ab;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+    color: #3c09e1;
+}
+.navbar .navbar-nav .dropdown-menu {
+    background-color: #088080;
+    border-color: #49aeb8;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item {
+    color: #f8f9ab;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item:hover,
+.navbar .navbar-nav .dropdown-menu .dropdown-item:focus,
+.navbar .navbar-nav .dropdown-menu .dropdown-item.active {
+    color: #3c09e1;
+    background-color: #49aeb8;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-divider {
+    border-top-color: #49aeb8;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+    color: #3c09e1;
+    background-color: #49aeb8;
+}
+.navbar .navbar-toggle {
+    border-color: #49aeb8;
+}
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: #49aeb8;
+}
+.navbar .navbar-toggle .navbar-toggler-icon {
+    color: #f8f9ab;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+    border-color: #f8f9ab;
+}
+.navbar .navbar-link {
+    color: #f8f9ab;
+}
+.navbar .navbar-link:hover {
+    color: #3c09e1;
+}
+
+@media (max-width: 575px) {
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #f8f9ab;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #3c09e1;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #3c09e1;
+        background-color: #49aeb8;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #f8f9ab;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #3c09e1;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #3c09e1;
+        background-color: #49aeb8;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #f8f9ab;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #3c09e1;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #3c09e1;
+        background-color: #49aeb8;
+    }
+}
+
+@media (max-width: 1199px) {
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #f8f9ab;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #3c09e1;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #3c09e1;
+        background-color: #49aeb8;
+    }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #f8f9ab;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #3c09e1;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #3c09e1;
+    background-color: #49aeb8;
+}
