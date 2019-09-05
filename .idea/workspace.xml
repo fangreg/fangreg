@@ -2,9 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d49cd3-5d9c-4936-8f69-5e377505d2e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/js/MonJquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/FlashFanie/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/FlashFanie/img/Flash-PositionneXY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/FlashFanie/img/atomic_bomb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/FlashFanie/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/FlashFanie/img/flash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/FlashFanie/img/flash2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/FlashFanie/js/MonJquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/FlashFanie/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/js/cours4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/js/helloJquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/js/monScript87.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/js/no2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/js/premierScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/js/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/medias/110455.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/medias/ben.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/medias/ren.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/medias/sw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/NOTESShanyJQUERY/medias/sw2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js/MonJquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js/MonJquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration2/ExerStorm/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js/MonJquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/Bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/images/DarthVader.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/images/DarthVader.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/images/bg2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/images/bg2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/images/lune.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/images/lune.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/images/nouveauStorm.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/images/nouveauStorm.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/images/stormtrooper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/images/stormtrooper.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/images/trooper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/images/trooper.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intégration2/ExerStorm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/ExerStorm/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,25 +87,25 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Intégration2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javascript" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js" />
-      <recent name="$PROJECT_DIR$/Intégration2/ExerStorm" />
-      <recent name="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap" />
-      <recent name="$PROJECT_DIR$/Intégration2/ExerStorm/css" />
+      <recent name="$PROJECT_DIR$/Javascript/FlashFanie/js" />
+      <recent name="$PROJECT_DIR$/Intégration2/FlashFanie/js" />
+      <recent name="$PROJECT_DIR$/Intégration2/FlashFanie" />
       <recent name="$PROJECT_DIR$/Intégration2" />
+      <recent name="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Javascript" />
+      <recent name="$PROJECT_DIR$/Intégration2/JuilletFINAL" />
+      <recent name="$PROJECT_DIR$/Intégration2/FlashFanie/img" />
       <recent name="$PROJECT_DIR$/Intégration2" />
       <recent name="$PROJECT_DIR$/Intégration2/ExerJavascript" />
-      <recent name="$PROJECT_DIR$/Intégration2/JuilletFINAL/img" />
-      <recent name="$PROJECT_DIR$/Intégration2/ProjetJuillet" />
-      <recent name="$PROJECT_DIR$/Persos/podca/ImagesEpisodes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -115,7 +165,13 @@
       <workItem from="1565310596742" duration="1271000" />
       <workItem from="1565737072551" duration="476000" />
       <workItem from="1565737788306" duration="280000" />
-      <workItem from="1565909636519" duration="5098000" />
+      <workItem from="1565909636519" duration="6851000" />
+      <workItem from="1565998345607" duration="24000" />
+      <workItem from="1566515112305" duration="4102000" />
+      <workItem from="1566655182064" duration="6215000" />
+      <workItem from="1567120096603" duration="6548000" />
+      <workItem from="1567129710432" duration="183000" />
+      <workItem from="1567723960967" duration="845000" />
     </task>
     <servers />
   </component>
