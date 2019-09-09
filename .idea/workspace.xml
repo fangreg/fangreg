@@ -2,6 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d49cd3-5d9c-4936-8f69-5e377505d2e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/js/MonJquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/Bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/img/pugparty.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/img/victoire.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/js/cassetete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cassetete/fanie/js/jquery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +46,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -35,25 +62,25 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javascript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cassetete/fanie" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Javascript/FlashFanie/js" />
-      <recent name="$PROJECT_DIR$/Intégration2/FlashFanie/js" />
-      <recent name="$PROJECT_DIR$/Intégration2/FlashFanie" />
-      <recent name="$PROJECT_DIR$/Intégration2" />
-      <recent name="$PROJECT_DIR$/Intégration2/ExerStorm/Bootstrap/js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cassetete/fanie" />
+      <recent name="$PROJECT_DIR$/cassetete" />
       <recent name="$PROJECT_DIR$/Javascript" />
       <recent name="$PROJECT_DIR$/Intégration2/JuilletFINAL" />
       <recent name="$PROJECT_DIR$/Intégration2/FlashFanie/img" />
-      <recent name="$PROJECT_DIR$/Intégration2" />
-      <recent name="$PROJECT_DIR$/Intégration2/ExerJavascript" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cassetete/fanie/img" />
+      <recent name="$PROJECT_DIR$/cassetete/ExerStorm" />
+      <recent name="$PROJECT_DIR$/Javascript/FlashFanie/js" />
+      <recent name="$PROJECT_DIR$/Intégration2/FlashFanie/js" />
+      <recent name="$PROJECT_DIR$/Intégration2/FlashFanie" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -120,6 +147,11 @@
       <workItem from="1567120096603" duration="6548000" />
       <workItem from="1567129710432" duration="183000" />
       <workItem from="1567723960967" duration="1427000" />
+      <workItem from="1567725984640" duration="60000" />
+      <workItem from="1567727773921" duration="6177000" />
+      <workItem from="1567884707670" duration="7033000" />
+      <workItem from="1567905351289" duration="4351000" />
+      <workItem from="1567978790128" duration="6519000" />
     </task>
     <servers />
   </component>
