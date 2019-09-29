@@ -2,49 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d49cd3-5d9c-4936-8f69-5e377505d2e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/Polices/Mollen.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/css/MonCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/BDFleurs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/Imageenfant.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/Logo-MoleculesPETIT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/captainmarvel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/moleculelogo-final.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/produits.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/js/jquery-3.3.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/MonCSS.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/Fanie-Famille.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/Fanie-Fred.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/Fanie-Podcast.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/Fanie-Retro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/Fanie_maquille.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/GeekettesFBDM2017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/GrandePhoto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/Mamanetmoi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/img/MorgouneBoite.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intégration1/ProjetFinalFanie/video/VideoMorgane.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.TravailFINAL/css/MonCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/MonCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.TravailFINAL/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +132,7 @@
       <workItem from="1568759310645" duration="10000" />
       <workItem from="1569698443822" duration="7578000" />
       <workItem from="1569725098464" duration="4330000" />
-      <workItem from="1569758896152" duration="6739000" />
+      <workItem from="1569758896152" duration="7422000" />
     </task>
     <servers />
   </component>
