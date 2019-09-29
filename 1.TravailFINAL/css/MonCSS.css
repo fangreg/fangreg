@@ -3,6 +3,11 @@
     src: url("../Polices/Mollen.otf") format("opentype");
 }
 
+p {
+    font-family: maPolice;
+    font-size: 20px;
+}
+
 h1 {
     font-family: maPolice;
     color: white;
@@ -42,7 +47,7 @@ h1 {
 
 
 a:link, a:visited {
-    color: white;
+    color: #19322e;
 }
 
 a:hover, a:active {
@@ -51,6 +56,9 @@ a:hover, a:active {
 
 }
 
+ #link {
+     color: white;
+ } /* CSS link color */
 
 
 
