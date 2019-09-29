@@ -46,7 +46,9 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    color: #EA706F;;
+    color: #EA706F;
+    text-decoration: none;
+
 }
 
 
@@ -72,8 +74,8 @@ hr {
 
 .ImageFOND
 {
-    background-image: url("../img/BanniereFINAL.jpg");
-    height: 90%;
+    background-image: url("../img/Banniere-LoutreFINAL.jpg");
+    height: 80%;
     /*Background-attachment: fixed;*/
     background-position: center;
     background-repeat: no-repeat;
