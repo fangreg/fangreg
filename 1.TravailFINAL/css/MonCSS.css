@@ -27,6 +27,13 @@ h1 {
 {
     background-color: #43a3cd;
 }
+
+.bgvert
+{
+    background-color: #3d998a;
+}
+
+
 .btn-primary {
     text-decoration-color: white;
     background-color: #EA706F;
@@ -87,6 +94,7 @@ hr {
     /*Background-attachment: fixed;*/
     background-position: center;
     background-repeat: no-repeat;
+    background-color: #3d998a;
 }
 
 
