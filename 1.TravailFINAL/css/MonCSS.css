@@ -231,11 +231,6 @@ hr {
     background-color: #ffffff;
 }
 
-.navbar-nav.navbar-center {
-    position: absolute;
-    left: 70%;
-    transform: translatex(-50%);
-}
 
 
 .container {
