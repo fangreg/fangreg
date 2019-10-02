@@ -311,7 +311,7 @@ hr {
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #6fbebb; color:white;}
+.dropdown-content a:hover {background-color: #ea706f; color:white;}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
