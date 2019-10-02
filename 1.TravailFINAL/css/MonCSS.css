@@ -95,11 +95,10 @@ hr {
 .ImageFOND
 {
     background-image: url("../img/Banniere-LoutreFINAL.jpg");
-    height: 80%;
+    height: 100%;
     /*Background-attachment: fixed;*/
     background-position: center;
     background-repeat: no-repeat;
-    background-color: #3d998a;
 }
 
 
@@ -333,3 +332,6 @@ hr {
 }
 
 
+.surligneur::selection {
+    background: #e74c3c;
+}
