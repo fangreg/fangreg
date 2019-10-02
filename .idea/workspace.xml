@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d49cd3-5d9c-4936-8f69-5e377505d2e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1.TravailFINAL/css/MonCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/MonCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/loutre.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.TravailFINAL/img/Banniere-LoutreFINAL.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.TravailFINAL/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,19 +45,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/1.TravailFINAL/img" />
-      <recent name="$PROJECT_DIR$/1.TravailFINAL/Polices" />
-      <recent name="$PROJECT_DIR$/1.TravailFINAL" />
-      <recent name="$PROJECT_DIR$/cassetete/fanie" />
-      <recent name="$PROJECT_DIR$/cassetete" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/1.TravailFINAL/Polices" />
       <recent name="$PROJECT_DIR$/1.TravailFINAL/img" />
       <recent name="$PROJECT_DIR$/1.TravailFINAL" />
       <recent name="$PROJECT_DIR$/cassetete/fanie/img" />
       <recent name="$PROJECT_DIR$/cassetete/ExerStorm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1.TravailFINAL/img" />
+      <recent name="$PROJECT_DIR$/1.TravailFINAL/Polices" />
+      <recent name="$PROJECT_DIR$/1.TravailFINAL" />
+      <recent name="$PROJECT_DIR$/cassetete/fanie" />
+      <recent name="$PROJECT_DIR$/cassetete" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -132,7 +135,7 @@
       <workItem from="1569725098464" duration="4330000" />
       <workItem from="1569758896152" duration="14538000" />
       <workItem from="1569894958333" duration="1639000" />
-      <workItem from="1569973227092" duration="2160000" />
+      <workItem from="1569973227092" duration="4349000" />
     </task>
     <servers />
   </component>
