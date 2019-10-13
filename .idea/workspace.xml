@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d49cd3-5d9c-4936-8f69-5e377505d2e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/anniversaire.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/aquaforme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/campdejour.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/contactenvoye.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/horaire.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/LoutreFINAL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/anniversaire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/aquaforme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/campdejour.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/enfants.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/etoile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/petitgarcon.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/pregnant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/secourisme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/inscription.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/natation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/prenataux.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/secourisme.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.TravailFINAL/css/MonCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/MonCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.TravailFINAL/img/Loutre4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.TravailFINAL/img/Loutre8.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/1.TravailFINAL/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,19 +63,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/1.TravailFINAL/Polices" />
-      <recent name="$PROJECT_DIR$/1.TravailFINAL/img" />
-      <recent name="$PROJECT_DIR$/1.TravailFINAL" />
-      <recent name="$PROJECT_DIR$/cassetete/fanie/img" />
-      <recent name="$PROJECT_DIR$/cassetete/ExerStorm" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/1.TravailFINAL/img" />
       <recent name="$PROJECT_DIR$/1.TravailFINAL/Polices" />
       <recent name="$PROJECT_DIR$/1.TravailFINAL" />
       <recent name="$PROJECT_DIR$/cassetete/fanie" />
       <recent name="$PROJECT_DIR$/cassetete" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1.TravailFINAL" />
+      <recent name="$PROJECT_DIR$/1.TravailFINAL/Polices" />
+      <recent name="$PROJECT_DIR$/1.TravailFINAL/img" />
+      <recent name="$PROJECT_DIR$/cassetete/fanie/img" />
+      <recent name="$PROJECT_DIR$/cassetete/ExerStorm" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -137,6 +154,16 @@
       <workItem from="1569758896152" duration="14538000" />
       <workItem from="1569894958333" duration="1639000" />
       <workItem from="1569973227092" duration="6271000" />
+      <workItem from="1570061152297" duration="3583000" />
+      <workItem from="1570228390597" duration="220000" />
+      <workItem from="1570319710202" duration="3482000" />
+      <workItem from="1570366365382" duration="4180000" />
+      <workItem from="1570399355139" duration="1472000" />
+      <workItem from="1570402325905" duration="2030000" />
+      <workItem from="1570412663865" duration="517000" />
+      <workItem from="1570414526144" duration="133000" />
+      <workItem from="1570585473340" duration="1031000" />
+      <workItem from="1570671253252" duration="933000" />
     </task>
     <servers />
   </component>
