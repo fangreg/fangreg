@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d49cd3-5d9c-4936-8f69-5e377505d2e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/anniversaire.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/aquaforme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/campdejour.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/contactenvoye.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/horaire.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/LoutreFINAL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/anniversaire.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/aquaforme.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/campdejour.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/enfants.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/etoile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/petitgarcon.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/pregnant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/img/secourisme.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/inscription.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/natation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/prenataux.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.TravailFINAL/secourisme.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.TravailFINAL/css/MonCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/css/MonCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.TravailFINAL/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.TravailFINAL/horaire.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/horaire.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.TravailFINAL/prenataux.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.TravailFINAL/prenataux.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -164,6 +145,7 @@
       <workItem from="1570414526144" duration="133000" />
       <workItem from="1570585473340" duration="1031000" />
       <workItem from="1570671253252" duration="933000" />
+      <workItem from="1570997314980" duration="3025000" />
     </task>
     <servers />
   </component>
